@@ -1,7 +1,7 @@
 Python-Basics_Files
 ===================
 
-Working with Files
+Working with IO Files
 
 Cirriculum: Learn Python the hard way (http://learnpythonthehardway.org/book/)
 
